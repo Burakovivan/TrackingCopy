@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VegasWrapper = 
 
 namespace TrackingCopy
 {
-    class Program
+    public class EntryPoint
     {
-        static void Main(string[] args)
+        static void FromVegas(VegasWrapper vegas)
         {
         }
     }

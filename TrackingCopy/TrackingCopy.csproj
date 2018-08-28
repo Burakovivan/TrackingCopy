@@ -32,6 +32,58 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ScriptPortal.MediaSoftware.Archive">
+      <HintPath>refs\ScriptPortal.MediaSoftware.Archive.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.clrshared">
+      <HintPath>refs\ScriptPortal.MediaSoftware.clrshared.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.DeviceExp">
+      <HintPath>refs\ScriptPortal.MediaSoftware.DeviceExp.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.ExternalVideoDevice">
+      <HintPath>refs\ScriptPortal.MediaSoftware.ExternalVideoDevice.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.FileExplorer">
+      <HintPath>refs\ScriptPortal.MediaSoftware.FileExplorer.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.SfBdMuxCom">
+      <HintPath>refs\ScriptPortal.MediaSoftware.SfBdMuxCom.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.Skins">
+      <HintPath>refs\ScriptPortal.MediaSoftware.Skins.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.TextGen.CoreGraphics">
+      <HintPath>refs\ScriptPortal.MediaSoftware.TextGen.CoreGraphics.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.TextGen.CoreGraphics.XmlSerializers">
+      <HintPath>refs\ScriptPortal.MediaSoftware.TextGen.CoreGraphics.XmlSerializers.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.TextGen.OFXInterop">
+      <HintPath>refs\ScriptPortal.MediaSoftware.TextGen.OFXInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.VideoEffectsUI">
+      <HintPath>refs\ScriptPortal.MediaSoftware.VideoEffectsUI.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.MediaSoftware.XDCAMExp">
+      <HintPath>refs\ScriptPortal.MediaSoftware.XDCAMExp.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.Monitor3D">
+      <HintPath>refs\ScriptPortal.Monitor3D.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.Vegas, Version=15.0.0.216, Culture=neutral, PublicKeyToken=3cda94b1926e6fbc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>refs\ScriptPortal.Vegas.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.Vegas.MobileSync">
+      <HintPath>refs\ScriptPortal.Vegas.MobileSync.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.Vegas.PublishOFA">
+      <HintPath>refs\ScriptPortal.Vegas.PublishOFA.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptPortal.Vegas.RelinkSonyWirelessAdapterMedia">
+      <HintPath>refs\ScriptPortal.Vegas.RelinkSonyWirelessAdapterMedia.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
